@@ -5,6 +5,7 @@ class RegistrationForm extends React.Component {
         <form>
           <input type="text">
           <input type="password">
+          <button type="submit">
         </form>
         <img src="http://twitter.com/some-avatar.png" className="tweet__avatar" />
         <div className="tweet__body">
