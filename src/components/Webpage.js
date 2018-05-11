@@ -14,5 +14,6 @@ import ReactDOM from 'react-dom';
 
 ReactDOM.render(
   <FillerText />,
+  <FillerText />,
   document.getElementById('root')
 );
