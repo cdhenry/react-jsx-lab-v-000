@@ -2,11 +2,7 @@ class FillerText extends React.Component {
   render() {
     return (
       <div className="registrationForm">
-        <form>
-          <input type="text">
-          <input type="password">
-          <button type="submit">
-        </form>
+        <p>I am a filler text. I can be used to fill your screen. Amazing!</p>
       </div>
     );
   }
