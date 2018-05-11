@@ -7,3 +7,5 @@ class Webpage extends React.Component {
     );
   }
 }
+
+export default Webpage;
