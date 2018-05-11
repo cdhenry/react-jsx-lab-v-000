@@ -11,8 +11,8 @@ class Webpage extends React.Component {
 export default Webpage;
 import FillerText from './FillerText';
 import ReactDOM from 'react-dom';
- 
+
 ReactDOM.render(
-  <Tweet />,
+  <FillerText />,
   document.getElementById('root')
 );
